@@ -29,7 +29,7 @@ Please visit our wiki for furthur project info:
 - [Software Design Specification](https://github.com/robi-y/seproject-team-template/wiki/sds)
 
 ### Iteration Pages
-- [Iteration 0 - ZFR](https://github.com/hannahbenhamou94/project-tmura/wiki/SRS-Review-Summary)
+- [Iteration 0 - ZFR](https://github.com/hannahbenhamou94/project-tmura/wiki)
 - [Iteration 1 - MVP]()
 - [Iteration 2 - Feature X]()
 - [Iteration 3 - Feature Y]()
