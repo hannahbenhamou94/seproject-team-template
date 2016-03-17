@@ -1,10 +1,13 @@
 # tmura_girls
 
+![project logo (this one is taken from basecamp)](https://github.com/hannahbenhamou94/project-tmura/blob/master/%D7%9C%D7%95%D7%92%D7%95.jpg)
+
 ## הדרך לתואר בטוהר
 
 
 ## Please visit our [live application](https://demo.reactstarterkit.com/)
-- Alright, currently only a landing page...
+ 
+[![Join the chat at https://gitter.im/robi-y/seproject-team-template](https://badges.gitter.im/robi-y/seproject-team-template.svg)](https://gitter.im/hannahbenhamou94/project-tmura?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 [![Join the chat at https://gitter.im/hannahbenhamou94/project-tmura](https://gitter.im/hannahbenhamou94/project-tmura.svg)](https://gitter.im/hannahbenhamou94/project-tmura?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
@@ -20,13 +23,13 @@ Please visit our wiki for furthur project info:
 ### [Team Page](https://github.com/hannahbenhamou94/project-tmura/wiki/team)
 
 ### Project Documents
-- [Project Idea](docs/idea.pdf) ([Presentation](docs/idea-slides.pdf))
-- [Project Inception](../../wiki/inception)
-- [Software Requirements Specification](../../wiki/srs)
-- [Software Design Specification](../../wiki/sds)
+- [Project Idea](https://drive.google.com/open?id=0B5FhfrJjOH5yNmNfZmUtV0ppdGs) ([Presentation](https://drive.google.com/open?id=0B5FhfrJjOH5yODl3TWQxQVo5YU0))
+- [Project Inception](https://github.com/hannahbenhamou94/project-tmura/wiki/Inception)
+- [Software Requirements Specification](https://github.com/hannahbenhamou94/project-tmura/wiki/sds)
+- [Software Design Specification](https://github.com/robi-y/seproject-team-template/wiki/sds)
 
 ### Iteration Pages
-- [Iteration 0 - ZFR](../../wiki/iter0-zfr)
+- [Iteration 0 - ZFR](https://github.com/hannahbenhamou94/project-tmura/wiki/SRS-Review-Summary)
 - [Iteration 1 - MVP]()
 - [Iteration 2 - Feature X]()
 - [Iteration 3 - Feature Y]()
