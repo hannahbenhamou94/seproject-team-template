@@ -25,8 +25,8 @@ Please visit our wiki for furthur project info:
 ### Project Documents
 - [Project Idea](https://drive.google.com/open?id=0B5FhfrJjOH5yNmNfZmUtV0ppdGs) ([Presentation](https://drive.google.com/open?id=0B5FhfrJjOH5yODl3TWQxQVo5YU0))
 - [Project Inception](https://github.com/hannahbenhamou94/project-tmura/wiki/Inception)
-- [Software Requirements Specification](https://github.com/hannahbenhamou94/project-tmura/wiki/sds)
-- [Software Design Specification](https://github.com/robi-y/seproject-team-template/wiki/sds)
+- [Software Requirements Specification](https://github.com/hannahbenhamou94/project-tmura/wiki/srs)
+- [Software Design Specification](https://github.com/hannahbenhamou94/project-tmura/wiki/sds)
 
 ### Iteration Pages
 - [Iteration 0 - ZFR](https://github.com/hannahbenhamou94/project-tmura/wiki)
